@@ -11,6 +11,7 @@
 	<groupId>com.vishwasam</groupId>
 	<artifactId>src</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>src</name>
 	<description>Dedicated to formers</description>
 

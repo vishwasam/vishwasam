@@ -46,4 +46,10 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>common-util</module>
+		<module>collections</module>
+		<module>web-ui</module>
+	</modules>
+
 </project>

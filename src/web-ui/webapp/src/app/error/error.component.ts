@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ErrorComponent implements OnInit {
 
+  errorMessage = 'Hi, This page is in development mode, please try in some days'
+
   constructor() { }
 
   ngOnInit(): void {
+    console.log(this.errorMessage)
   }
 
 }

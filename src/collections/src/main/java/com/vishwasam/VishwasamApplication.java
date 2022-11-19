@@ -1,13 +1,13 @@
-package com.vishwasam.collections;
+package com.vishwasam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CollectionsApplication {
+public class VishwasamApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CollectionsApplication.class, args);
+		SpringApplication.run(VishwasamApplication.class, args);
 	}
 
 }
